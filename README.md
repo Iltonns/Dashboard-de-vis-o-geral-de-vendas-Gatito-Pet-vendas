@@ -1,9 +1,9 @@
 
-🐾 Dashboard Gatito Petshop - Análise de Vendas e Comportamento do Cliente
-📌 Visão Geral
+# 🐾 Dashboard Gatito Petshop - Análise de Vendas e Comportamento do Cliente
+# 📌 Visão Geral
 Dashboard interativo desenvolvido para monitorar o desempenho comercial do Gatito Petshop, proporcionando insights estratégicos sobre vendas, clientes e produtos.
 
-🛑 O Problema
+# 🛑 O Problema
 A Gatito Petshop enfrentava desafios em:
 
 Monitoramento de desempenho: Dificuldade em acompanhar KPIs comerciais em tempo real
@@ -12,7 +12,7 @@ Análise de clientes: Falta de visibilidade sobre padrões de compra e preferên
 
 Tomada de decisão: Decisões estratégicas baseadas em intuição ao invés de dados concretos
 
-💡 Solução Implementada
+# 💡 Solução Implementada
 Desenvolvimento de um dashboard abrangente com:
 
 ✅ Indicadores-chave de desempenho
@@ -37,7 +37,7 @@ Mapa de calor de vendas por horário
 
 Top produtos mais vendidos
 
-🛠️ Ferramentas Utilizadas
+# 🛠️ Ferramentas Utilizadas
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> </div>
 🚀 Resultados Alcançados
 ✔ Aumento de 25% na eficiência da análise de dados
@@ -46,10 +46,10 @@ Top produtos mais vendidos
 ✔ Identificação dos 3 bairros com maior potencial de expansão
 ✔ Otimização do mix de produtos com base nas preferências dos clientes
 
-📊 Recursos do Dashboard
+# 📊 Recursos do Dashboard
 Dashboard Preview
 
-📌 Próximos Passos
+# 📌 Próximos Passos
 🔹 Integração com sistema de estoque em tempo real
 🔹 Implementação de alertas automáticos para variações significativas
 🔹 Desenvolvimento de modelo preditivo para demanda sazonal
