@@ -56,7 +56,7 @@ Dashboard Preview
 
 <div align="center" style="margin-top: 20px;"> <img src="https://img.shields.io/badge/Status-Em_Produção-brightgreen" alt="Status"/> <img src="https://img.shields.io/badge/Atualização-Diária-blue" alt="Frequência"/> <img src="https://img.shields.io/badge/Versão-1.2.0-orange" alt="Versão"/> </div>
 📥 Como Acessar
-O dashboard está disponível:
+O dashboard está disponível: (https://app.powerbi.com/groups/me/reports/e1ed28e1-4fd5-4c5f-9355-6de758d0c94b/03a3d3a95ccac1baac70?experience=power-bi)
 
 Power BI Online
 
